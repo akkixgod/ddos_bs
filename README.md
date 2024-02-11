@@ -1,2 +1,2 @@
 # ddos_bs
-ddos tool for brawl stars private server with some features by KasperDev( https://github.com/ksprdv)
+ddos tool to spam accounts/ddos brawl stars private server by KasperDev( https://github.com/ksprdv)
